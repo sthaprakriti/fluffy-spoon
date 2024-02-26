@@ -1,1 +1,1 @@
-this is my first github repositary
+this is my first git repositary
